@@ -2,7 +2,7 @@
 
 ### Entry 1:
 
-Hello. My name is Michael. That brought me to a good idea for the total: Michael -> Mike -> Mikey -> My Key(Board)
+Hello. My name is Michael. That brought me to a good idea for the title: Michael -> Mike -> Mikey -> My Key(Board)
 
 I want my first mechanical keyboard to be modeled after this picture. I like the design, the layout, and the simplicity. Although, I originally wanted to add an encoder and a screen on the left side of the keyboard, but since this is my first time, my plan is to make a minimalist keyboard first, then build more advanced designs. 
 
